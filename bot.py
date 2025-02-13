@@ -6,7 +6,7 @@ TOKEN = os.getenv("BOT_TOKEN")
 
 # اگر متغیر محیطی تنظیم نشده بود، به صورت مستقیم مقدار بده (ایمن نیست!)
 if not TOKEN:
-    TOKEN = "7379142644:AAFbphvpuduAg5MSvG_zAgp_c7XVAYjUdOA"
+    TOKEN = "7807664084:AAH0YmBIiGDOUQMmmyJiwB_oNaYtABtxBpY"
 
 bot = telebot.TeleBot(TOKEN)
 
